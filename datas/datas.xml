@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<odoo>
+    <data noupdate="0">        
+        <record id="key_a_flat" model="music.key">
+            <field name="note">A</field>
+            <field name="modifier">flat</field>
+        </record>
+        <record id="key_a_natural" model="music.key">
+            <field name="note">A</field>
+            <field name="modifier">natural</field>
+        </record>
+        <record id="key_a_sharp" model="music.key">
+            <field name="note">A</field>
+            <field name="modifier">sharp</field>
+        </record>
+        
+        <record id="key_b_flat" model="music.key">
+            <field name="note">B</field>
+            <field name="modifier">flat</field>
+        </record>
+        <record id="key_b_natural" model="music.key">
+            <field name="note">B</field>
+            <field name="modifier">natural</field>
+        </record>
+        <record id="key_b_sharp" model="music.key">
+            <field name="note">B</field>
+            <field name="modifier">sharp</field>
+        </record>
+        
+        <record id="key_c_flat" model="music.key">
+            <field name="note">C</field>
+            <field name="modifier">flat</field>
+        </record>
+        <record id="key_c_natural" model="music.key">
+            <field name="note">C</field>
+            <field name="modifier">natural</field>
+        </record>
+        <record id="key_c_sharp" model="music.key">
+            <field name="note">C</field>
+            <field name="modifier">sharp</field>
+        </record>
+        
+        <record id="key_d_flat" model="music.key">
+            <field name="note">D</field>
+            <field name="modifier">flat</field>
+        </record>
+        <record id="key_d_natural" model="music.key">
+            <field name="note">D</field>
+            <field name="modifier">natural</field>
+        </record>
+        <record id="key_d_sharp" model="music.key">
+            <field name="note">D</field>
+            <field name="modifier">sharp</field>
+        </record>
+        
+        <record id="key_e_flat" model="music.key">
+            <field name="note">E</field>
+            <field name="modifier">flat</field>
+        </record>
+        <record id="key_e_natural" model="music.key">
+            <field name="note">E</field>
+            <field name="modifier">natural</field>
+        </record>
+        <record id="key_e_sharp" model="music.key">
+            <field name="note">E</field>
+            <field name="modifier">sharp</field>
+        </record>
+        
+        <record id="key_f_flat" model="music.key">
+            <field name="note">F</field>
+            <field name="modifier">flat</field>
+        </record>
+        <record id="key_f_natural" model="music.key">
+            <field name="note">F</field>
+            <field name="modifier">natural</field>
+        </record>
+        <record id="key_f_sharp" model="music.key">
+            <field name="note">F</field>
+            <field name="modifier">sharp</field>
+        </record>
+
+        <record id="key_g_flat" model="music.key">
+            <field name="name">Gb</field>
+            <field name="note">G</field>
+            <field name="modifier">flat</field>
+        </record>
+        <record id="key_g_natural" model="music.key">
+            <field name="name">G</field>
+            <field name="note">G</field>
+            <field name="modifier">natural</field>
+        </record>
+        <record id="key_g_sharp" model="music.key">
+            <field name="name">G#</field>
+            <field name="note">G</field>
+            <field name="modifier">sharp</field>
+        </record>
+    </data>
+</odoo>
