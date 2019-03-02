@@ -1,4 +1,10 @@
 
 <?xml version="1.0" encoding="UTF-8"?>
 <odoo>
+    <!-- Main menu for "Key" -->
+    <record id="menu_key" model="ir.ui.menu" >
+        <field name="name">Key</field>
+        <field name="sequence" eval="0" />
+        <field name="action" ref="action_key_act_window" />
+    </record>
 </odoo>
