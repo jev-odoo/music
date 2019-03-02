@@ -26,8 +26,7 @@
     'data': [
         'security/ir.model.access.csv',
         'views/key.xml',
-        'views/views.xml',
-        'views/templates.xml',
+        'views/menus.xml'
         'datas/datas.xml'
     ],
 }
